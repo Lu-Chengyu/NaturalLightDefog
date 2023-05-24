@@ -1,6 +1,6 @@
 # NaturalLightDefog
 
-The code mainly shows the new optical model for fog by daylight.
+The code mainly shows the application of new optical model for fog by daylight.
 
 I(x)=J(x)t(x)+A(1-t(x)) => I(x)=AJ(x)t(x)/255+A(1-t(x))
 
