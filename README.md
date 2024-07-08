@@ -67,20 +67,29 @@ We applied our model to the most commonly used dark channel defogging method and
 
 Here are some visual comparisons of the results:
 
+### Visual Comparison
+
 #### Original Images
 
-<img src="VisualComparison/Original1.png" alt="Original Image1" width="200"/>
-<img src="VisualComparison/Original2.png" alt="Original Image2" width="400"/>
+<div style="display: flex; flex-direction: row;">
+  <img src="VisualComparison/Original1.png" alt="Original Image1" width="200"/>
+  <img src="VisualComparison/Original2.png" alt="Original Image2" width="400"/>
+</div>
 
 #### Traditional Method
 
-<img src="VisualComparison/DackChannel1.png" alt="DackChannel1" width="200"/>
-<img src="VisualComparison/DackChannel2.png" alt="DackChannel2" width="400"/>
+<div style="display: flex; flex-direction: row;">
+  <img src="VisualComparison/DarkChannel1.png" alt="DarkChannel1" width="200"/>
+  <img src="VisualComparison/DarkChannel2.png" alt="DarkChannel2" width="400"/>
+</div>
 
 #### Our Method
 
-<img src="VisualComparison/Mine1.png" alt="Mine1" width="200"/>
-<img src="VisualComparison/Mine2.png" alt="Mine2" width="400"/>
+<div style="display: flex; flex-direction: row;">
+  <img src="VisualComparison/Mine1.png" alt="Mine1" width="200"/>
+  <img src="VisualComparison/Mine2.png" alt="Mine2" width="400"/>
+</div>
+
 
 ## Conclusion and Future Work
 
