@@ -83,7 +83,7 @@ Here are some visual comparisons of the results:
   <img src="VisualComparison/DarkChannel2.png" alt="DarkChannel2" width="400"/>
 </div>
 
-#### Our Method
+#### My Method
 
 <div style="display: flex; flex-direction: row;">
   <img src="VisualComparison/Mine1.png" alt="Mine1" width="200"/>
